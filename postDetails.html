@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Post Details</title>
+
+    <script src="scripts/comments.view.js" defer></script>
+    <script src="scripts/posts.model.js"></script>
+    <script src="scripts/comments.model.js"></script>
+    <script src="scripts/postDetails.controller.js" defer></script>
+  </head>
+
+  <body>
+    <h1><button>Delete</button></h1>
+    <strong>{Autor}</strong> - <em>{data}</em>
+    <p>{Body}</p>
+
+    <div class="comments-area">
+      <template data-template="comments">
+        <p><a href="#">Textul comentariului</a> <span>Feb. 2020</span></p>
+      </template>
+    </div>
+  </body>
+</html>

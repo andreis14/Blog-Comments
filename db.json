@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "title": "Test din consola",
+      "date": "2021-03-30",
+      "body": "Lorem Ipsum",
+      "author": "Paul",
+      "id": 2
+    },
+    {
+      "title": "Inca un test",
+      "body": "bla bala",
+      "author": "Ionut",
+      "date": "2021-04-16",
+      "id": 4
+    },
+    {
+      "title": "Acum cu reset",
+      "body": "test",
+      "author": "Paul",
+      "date": "2021-04-15",
+      "id": 6
+    },
+    {
+      "title": "Inca odata cu reset",
+      "body": "asdas",
+      "author": "Paul",
+      "date": "2021-04-23",
+      "id": 7
+    },
+    {
+      "title": "asa",
+      "body": "asass",
+      "author": "assa",
+      "date": "2021-04-11",
+      "id": 8
+    },
+    {
+      "title": "aasaaaaaa",
+      "body": "aaaaaaaaa",
+      "author": "aaaa",
+      "date": "2021-04-21",
+      "id": 9
+    }
+  ],
+  "comments": []
+}
